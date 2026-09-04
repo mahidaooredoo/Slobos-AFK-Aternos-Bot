@@ -3,7 +3,8 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online
+  "
   },
   "server": {
     "ip": "fightclub-Mwxc.aternos.me",
